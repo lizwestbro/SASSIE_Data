@@ -1,5 +1,8 @@
 # Welcome to SASSIE Data Visualization Github! 
 
+<a href="https://zenodo.org/badge/latestdoi/685649458"><img src="https://zenodo.org/badge/685649458.svg" alt="DOI"></a>
+
+
 <p>Thank you for you interest in the SASSIE campaign data!</p>
     <p>SASSIE is a NASA funded project that aims to better understand the role of salinity stratification in the marginal ice zone. In the fall of 2022, SASSIE conducted a field campaign off the Alaskan coast in the Beaufort Sea. This campaign included shipboard measurements as well as 6 remotely piloted/drifing platforms and an ariel campaign. To learn more, please visit <a href="https://salinity.oceansciences.org/sassie.html">https://salinity.oceansciences.org/sassie.html</a></p>
 
