@@ -1,6 +1,6 @@
 # Welcome to SASSIE Data Visualization Github! 
 
-<a href="https://zenodo.org/badge/latestdoi/685649458"><img src="https://zenodo.org/badge/685649458.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8327199.svg)](https://doi.org/10.5281/zenodo.8327199)
 
 
 <p>Thank you for you interest in the SASSIE campaign data!</p>
