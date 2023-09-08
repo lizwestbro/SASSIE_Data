@@ -8,7 +8,7 @@
 
 # Use these notebooks to explore SASSIE data! 
 <b>In this repository, you will find Jupyter Notebooks that show ways to download and visualize data collected durring the SASSIE campaign. </b>
- <p>The aim of this notebook is to assist in exploratory data analysis by downloading the SASSIE Data from NASA's PODAAC, opening the datasets and displaying their associated metadata, and creating a few visualizations that can be saved to the user's local disc. This notebook was created by Elizabeth Westbrook. For questions and trouble shooting, please email westbrooke@uncw.edu.</p>
+ <p>The aim of this notebook is to assist in exploratory data analysis by downloading the SASSIE Data from NASA's PODAAC, opening the datasets and displaying their associated metadata, and creating a few visualizations that can be saved to the user's local disc. This notebook was created by Elizabeth Westbrook. For questions and trouble shooting, please email elizabeth.e.westbrook@gmail.com.</p>
 
 <b> The notebooks are accessible through a Jupyter binder. Please visit <a href = "https://mybinder.org/v2/gh/lizwestbro/SASSIE_Data/HEAD">https://mybinder.org/v2/gh/lizwestbro/SASSIE_Data/HEAD</a></b>
 
